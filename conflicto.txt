@@ -1,6 +1,6 @@
 En main pondre a=1
 En dev pondre a=2
 
-a=3
+a=4
 
-quiero un conflicto
+feature2-dev
